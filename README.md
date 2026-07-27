@@ -1,5 +1,5 @@
 <h1 align="center">Hey There!, I'm Aslı Bayar</h1>
-<h3 align="center">Android Developer | Computer Science Student at Istanbul University</h3>
+<h3 align="center">Android Developer </h3>
 
 <p align="center">
   I'm an Android developer passionate about creating clean, efficient, and user-friendly mobile applications. Currently, I'm studying Computer Programming at Istanbul University, and I love experimenting with new Android technologies to solve complex problems.
